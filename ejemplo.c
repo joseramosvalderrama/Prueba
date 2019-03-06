@@ -2,5 +2,5 @@
 
 void main(){
 
-	printf("Diego vamos instala git");
+	printf("Diego vamos instala git, vaya cafre.");
 }
