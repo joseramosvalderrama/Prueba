@@ -2,6 +2,6 @@
 
 void main(){
 
-	printf("Sois muy toys");
+	printf("Sois muy toys. Pero muy toys");
 	
 }
